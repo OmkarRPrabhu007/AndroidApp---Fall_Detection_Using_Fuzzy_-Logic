@@ -1,5 +1,5 @@
 # Android Application for Fall Detection and Alert system Using Fuzzy Logic (_Simulink_)
-***
+___
 This project implements a fall detection mechanism using fuzzy logic concepts in Simulink (MATLAB). It simulates an Android application designed to address the following problem statement:
 
 
