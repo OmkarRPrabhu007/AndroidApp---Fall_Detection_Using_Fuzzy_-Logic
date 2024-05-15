@@ -1,5 +1,5 @@
 # Android Application for Fall Detection and Alert system Using Fuzzy Logic (_Simulink_)
-This project implements a fall detection mechanism using fuzzy logic concepts in Simulink (MATLAB). It simulates an Android application designed to address the following problem statement:
+This project implements a fall detection mechanism using fuzzy logic concepts in Simulink (MATLAB). It simulates an Android application with the following features :
 
 
 ## Features
@@ -22,6 +22,7 @@ This project implements a fall detection mechanism using fuzzy logic concepts in
 ### 5. Play Buzzer Sound
 - Play a buzzer sound (alarm type) on the current phone if the danger level is Medium or High.
 - The sound level of the buzzer is proportional to the estimated danger level.
+
 
 ## Course 
 This project was completed as part of the Control Systems course at the Indian Institute of Technology Gandhinagar (IIT Gandhinagar) under the guidance of [Prof. Nithin V. George](https://www.iitgn.ac.in/faculty/ee/fac-nithin).
